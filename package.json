@@ -1,0 +1,11 @@
+{
+  "name": "Farming",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "devDependencies": {
+    "rollup-plugin-typescript": "^0.7.5"
+  },
+  "dependencies": {}
+}
